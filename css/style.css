@@ -1,0 +1,18 @@
+body{
+    background-image: url(http://hikoikoi.com/wp-content/uploads/2017/04/machine-a-ecrire-contact_MODIF_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#carre{
+    height: 400px;
+    width: 600px;
+    background-color: black;
+    opacity : 0.5;
+    -moz-opacity : 0.5;
+    -ms-filter: "alpha(opacity=50)"; /* IE 8 */
+    filter : alpha(opacity=50); /* IE < 8 */
+    margin-left: 500px;
+    margin-top: 200px;
+}
